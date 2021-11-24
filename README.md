@@ -19,12 +19,12 @@ python datapreprocess/DataGenerator.py # generate file for training and evaluati
 python datapreprocess/train_pimp.py # get the null importance distribution and actual importance distribution
 python datapreprocess/visualize_pimp.py # visualize the importance distribution of PIMP
 ````
-###Pretraining 
+### Pretraining 
 ````
 python pretrain/unsupervised_pretraining.py # for unsupervised pretraining
 python pretrain/selfsupervised_pretraining.py # for self-supervised pretraining
 ````
-###Finetuning
+### Finetuning
 ````
 python finetuning/supervised_finetuning.py # for supervised finetuning
 ````
