@@ -1,0 +1,12 @@
+*.ckpt
+.DS_Store
+*.pth
+*.npy
+.ipynb_checkpoints
+test_finetune_performance
+.csv
+.pickle
+checkpoint
+.idea
+my_*
+dataset/pretrain
